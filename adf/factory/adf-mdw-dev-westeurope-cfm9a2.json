@@ -1,0 +1,12 @@
+{
+	"name": "adf-mdw-dev-westeurope-cfm9a2",
+	"properties": {
+		"globalParameters": {
+			"environment": {
+				"type": "string",
+				"value": "dev"
+			}
+		}
+	},
+	"location": "westeurope"
+}
